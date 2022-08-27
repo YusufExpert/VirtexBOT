@@ -1,0 +1,19 @@
+{
+  "name": "VirtexBOT",
+  "version": "X",
+  "description": "Created by Yusuf Expert",
+  "main": "yusuf.js",
+  "type": "module",
+  "scripts": {
+    "1": "npm i @adiwajshing/baileys",
+    "2": "npm i qrcode-terminal",
+    "3": "npm i cfonts",
+    "start": "node yusuf.js"
+  },
+  "keywords": [
+  ],
+  "author": "Yusuf Expert",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
