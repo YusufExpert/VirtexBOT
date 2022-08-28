@@ -8,12 +8,16 @@
     "1": "npm i @adiwajshing/baileys",
     "2": "npm i qrcode-terminal",
     "3": "npm i cfonts",
-    "start": "node yusuf.js"
+    "4": "npm install -g nodemon",
+    "start": "nodemon yusuf.js"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Yusuf Expert",
   "license": "MIT",
   "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "cfonts": "^3.1.1",
+    "link-preview-js": "^3.0.3",
+    "qrcode-terminal": "^0.12.0"
   }
 }
